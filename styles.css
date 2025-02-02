@@ -1,8 +1,5 @@
-* {
-  padding: 0px;
-  margin: 0px;
+main{
+  background-image: url("assests/images/bg.jpg"); 
+  height: 80vh;
 }
 
-.nav{
-  padding: 5px;
-}
