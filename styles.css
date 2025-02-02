@@ -1,5 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 main{
   background-image: url("assests/images/bg.jpg"); 
   height: 80vh;
 }
 
+main .box{
+  height: 80vh;
+  width: 100%;
+  background-color: black;
+  opacity: 0.5;
+}
