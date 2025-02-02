@@ -2,12 +2,12 @@
   margin: 0;
   padding: 0;
 }
-main{
+.main{
   background-image: url("assests/images/bg.jpg"); 
   height: 80vh;
 }
 
-main .box{
+.main .box{
   height: 80vh;
   width: 100%;
   background-color: black;
