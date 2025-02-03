@@ -16,3 +16,31 @@
   position: absolute;
   top: 0;
 }
+
+nav{
+  z-index: 1;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0px;
+}
+
+.main nav svg{
+  height: 40px;
+  fill: rgb(229,9,20);
+  color: rgb(229,9,20);
+  position: relative;
+ 
+}
+
+.sign button{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 0.25rem 1rem;
+    border-radius: 0.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    min-height: 2rem;
+    width: auto;
+}
