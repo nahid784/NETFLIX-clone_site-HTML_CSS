@@ -19,10 +19,12 @@
 
 nav{
   z-index: 1;
-  position: relative;
-  display: flex;
-  justify-content: center;
-  padding: 20px 0px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 140px;
+
 }
 
 .main nav svg{
