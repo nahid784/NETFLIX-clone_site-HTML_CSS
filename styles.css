@@ -79,3 +79,8 @@ nav {
   font-weight: 400;
   line-height: 1.5;
 }
+.btnmail{
+  position: relative;
+  z-index: 1;
+  
+}
