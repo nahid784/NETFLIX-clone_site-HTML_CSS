@@ -16,3 +16,12 @@
   top: 0;
   background-color: black;
 }
+
+nav{
+  background-color: red;
+  display: flex;
+  max-width: 80vw;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
