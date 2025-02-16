@@ -22,10 +22,22 @@
 }
 
 nav{
-  background-color: red;
   display: flex;
-  max-width: 80vw;
+  max-width: 60vw;
   margin: auto;
   align-items: center;
   justify-content: space-between;
+  height: 65px;
 }
+
+nav img{
+  color: red;
+  width: 150px;
+  position: relative;
+  z-index: 999;
+}
+
+  nav button{
+    position: relative;
+    z-index: 999;
+  }
