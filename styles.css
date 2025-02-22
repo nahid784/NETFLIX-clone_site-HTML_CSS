@@ -6,11 +6,12 @@
   color: white;
 }
 .main {
-  background-image: url("assests/images/bg.jpg");
-  height: 90vh;
+  background: url("assests/images/bg.jpg") center/cover no-repeat;
+  height: 100%;
   width: 100%;
   position: relative;
   display: flex;
+  justify-content: center;
   flex-direction: column;
   padding: 20px 0px;
 }
