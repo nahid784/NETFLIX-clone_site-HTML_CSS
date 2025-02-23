@@ -15,7 +15,8 @@
   flex-direction: column;
   padding: 20px 0px;
 }
-.main::before{
+
+.main::before {
   content: "";
   position: absolute;
   top: 0;
@@ -35,7 +36,6 @@
   padding: 20px 0px;
 } */
 
-
 nav {
   z-index: 1;
   position: relative;
@@ -45,7 +45,7 @@ nav {
   padding: 20px 140px;
 }
 
-.hero{
+.hero {
   padding: 100px 0px;
   display: flex;
   flex-direction: column;
@@ -90,7 +90,7 @@ nav {
   margin-bottom: 2rem;
 }
 
-.sub{
+.sub {
   position: relative;
   text-align: center;
   z-index: 1;
@@ -99,14 +99,14 @@ nav {
   line-height: 1.5;
   margin-bottom: 10px;
 }
-.btnmail{
+.btnmail {
   position: relative;
   z-index: 1;
   display: flex;
   justify-content: center;
   column-gap: 45px;
 }
-.email{
+.email {
   font-size: 1rem;
   line-height: 1.5;
   width: 100%;
@@ -117,24 +117,24 @@ nav {
   background-color: rgba(0, 0, 0, 0.247);
 }
 
-.strt{
+.strt {
   border: 0px;
-    cursor: pointer;
-    fill: currentcolor;
-    position: relative;
-    transition-duration: 250ms;
-    transition-property: background-color, border-color;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.68, 0.06);
-    vertical-align: text-top;
-    width: auto;
-    font-size: 1.5rem;
-    font-weight: 500;
-    min-height: 3.5rem;
-    padding: 0.75rem 1.5rem;
-    border-radius: 0.25rem;
-    background: rgb(229, 9, 20);
-    color: rgb(255, 255, 255);
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  cursor: pointer;
+  fill: currentcolor;
+  position: relative;
+  transition-duration: 250ms;
+  transition-property: background-color, border-color;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.68, 0.06);
+  vertical-align: text-top;
+  width: auto;
+  font-size: 1.5rem;
+  font-weight: 500;
+  min-height: 3.5rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.25rem;
+  background: rgb(229, 9, 20);
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
