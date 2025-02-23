@@ -15,7 +15,6 @@
   flex-direction: column;
   padding: 20px 0px;
 }
-
 .main::before{
   content: "";
   position: absolute;
